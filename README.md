@@ -2,7 +2,7 @@
 
 🎓 Studying Computer Science at the University of Texas at Arlington
 
-🐍📘 Currently learning JavaScript, CSS, HTML, and Python
+🐍📘 Currently learning Git, JavaScript, CSS, HTML, and Python
 
 🎨💡 Interested in video game development, computer graphics, rendering, and shader development
 
