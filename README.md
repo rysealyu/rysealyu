@@ -1,5 +1,7 @@
 # Ryan Le
 
+## Computer Science student at the University of Texas at Arlington, passionate about developing niche software gyu 🦭.
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rxl4349@mavs.uta.edu) 
 
